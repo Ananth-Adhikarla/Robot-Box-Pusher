@@ -1,0 +1,383 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Splash Screen.unity
+    guid: 64ea60bd0423ed54bb14f08f7bb53b46
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Start Menu.unity
+    guid: 1f62f6342403546458434479b8f02fea
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Level Select.unity
+    guid: 6772cc401450ca34c83603eb5316c91f
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic.unity
+    guid: b3a309616c4eb7942bd1b9c58b5fdf69
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual.unity
+    guid: b89b21b9fecdd5f46ad31c915266a529
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_1.unity
+    guid: 3ff8851ec27dcad4c8f46383c6421572
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_2.unity
+    guid: 95df5212e7af87c42bf17c8efc62a5bb
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_3.unity
+    guid: 63c0735c375f9a14889334b90cf66883
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_4.unity
+    guid: c01af6db2f21a934ea4cdf5fb93f5c5f
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_5.unity
+    guid: 5431c7970f295904da18f6f0e26d5cec
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_6.unity
+    guid: 273ee8c91de4de44eaaf5f03d377a197
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_7.unity
+    guid: 06afa9d1b8945d14fa57d636f4b2f6ea
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_8.unity
+    guid: 115f5c8f50ea1b445a9954dc54d885e7
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_9.unity
+    guid: 6cf266e2816d6404cbd2fe8e119356ae
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_10.unity
+    guid: 059c338e5e9438a4ca18c9fa1d7264ad
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_11.unity
+    guid: c13b7c4f0b173454e8ce5e4eec97119b
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_12.unity
+    guid: 0780fcd8bbd0cfd4982e37c88f281d9b
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_13.unity
+    guid: b12dc257cbae61d4cba5a8f4a76cb5cb
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_14.unity
+    guid: e838740dca1fa044db2497146ecae6c6
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_15.unity
+    guid: ef56750c15e99ee47a138098b6fdde3d
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_16.unity
+    guid: 9d659369907375a42941a356208265ed
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_17.unity
+    guid: d575067b8f78aa9429d62b78eff61f44
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_18.unity
+    guid: e3b795f8af1b302449fc2cd42dacd5c5
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_19.unity
+    guid: 1f268712ae2accb4e8948dceb8a72293
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_20.unity
+    guid: 99f4af7988bc7924cb4ae74270bf6249
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_21.unity
+    guid: c025aa825c6ccb94089444800344059b
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_22.unity
+    guid: 3872ef9e15cef954fa4ec029367f3df6
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_23.unity
+    guid: 76ab2ec7a55adc84ab0e6a52ca3ef4e7
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_24.unity
+    guid: 65dae7df89bfc1246b70db1f708c3091
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_25.unity
+    guid: 12d23dc026fdb6c46a94d0d6eed6aabb
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_26.unity
+    guid: 3120aefe4300c8b4bbe4d96620d95ccc
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_27.unity
+    guid: f3c28c9b3d4270943a35422ea6b40311
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_28.unity
+    guid: f27b0533457571e4580b941343512446
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_29.unity
+    guid: 5282e41e08585b8429bdbf158ac7921e
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_30.unity
+    guid: d289d823596883b428c5a3c76495b2ad
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_31.unity
+    guid: c04c005fa9e0dc44481343e74373e74e
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_32.unity
+    guid: 914003a1283a07645829137f96936df4
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_33.unity
+    guid: 199e25acec7ecb0428ce8a8ff5c54abf
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_34.unity
+    guid: d5a97279584096a4aa3a3df3722b21ac
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_35.unity
+    guid: 83acdcc17d905a842a0ea014cda1affa
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_36.unity
+    guid: 6a8563ef02663f64a805342a9a406e3d
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_37.unity
+    guid: 9acf3b63083d3544398bf3607991a263
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_38.unity
+    guid: 4e0941e5d0a923e47a739e16b58ec6b8
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_39.unity
+    guid: 6f1427d5163bc2c49842e4b469437d3d
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_40.unity
+    guid: 0b41188d177a2c04ebd8472366427179
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_41.unity
+    guid: d8c039472e1cc094788d2c2cf8121d4b
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_42.unity
+    guid: b9b26059b935ef44b99280b940693a3e
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_43.unity
+    guid: 665dbec785ad0ce4da9c5ee115d615b8
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_44.unity
+    guid: 75c6741a6856d7149a6d58166fa3df68
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_45.unity
+    guid: 019fd8d901408854f9f4ae826473c23f
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_46.unity
+    guid: 6a78a3270f4354941998733cf7137b0b
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_47.unity
+    guid: b876e9e80b011974da63f84d01deeae2
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_48.unity
+    guid: 2ca68b51b352e674c880c752e704f338
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_49.unity
+    guid: 2c6fef097125cc2469f930871866ffdb
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_50.unity
+    guid: 2abb72bec1e0c854ea32484a474103b0
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_51.unity
+    guid: 9f878ab4cc27a1a41a45f8a6f789cd1b
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_52.unity
+    guid: 355c1fb03abcbe7499a1beb9de146b66
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_53.unity
+    guid: 4c86ee028a6a5fd4f841f2cd5f8b31ab
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_54.unity
+    guid: 29a6996546d8ca04f8346599526d09ed
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_55.unity
+    guid: c4b3bf39b6d999b418b837fa84d2e883
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_56.unity
+    guid: 5bc3af6fee53361458a23d01aca0eae2
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_57.unity
+    guid: 6dad954e5160db140963cd71532ff201
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_58.unity
+    guid: 2781a236d1dfde1479e5739a03b3921b
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_59.unity
+    guid: b798655e401ed15488330288834e34be
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_60.unity
+    guid: 5ed676215e18baf4ba831bfc74c86e84
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_61.unity
+    guid: 0246408c6bf80fa4493f125bbcb66b01
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_62.unity
+    guid: d6b807a0c6c8ee4448f6abeb6459ef9d
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_63.unity
+    guid: 86f0ffe4890bbf4459a3c554f08e7957
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_64.unity
+    guid: 7ca29c681baef844c868a311bd9d7bc2
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_65.unity
+    guid: c6e249f18d33b994fbade11d6af81206
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_66.unity
+    guid: 8de85d1f5d1b75643adafd78d57f3d65
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_67.unity
+    guid: 6473de067966f8a499470bdaeec3a469
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_68.unity
+    guid: 86328991346c5d54ab2a3d29e9bb151f
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_69.unity
+    guid: d2ebc72d60f96d94987e75227f76fee8
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_70.unity
+    guid: db84bebf26166204b81bd48e45ede2c6
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_71.unity
+    guid: 0a053f9014eb35a488490ef0350d908b
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_72.unity
+    guid: 8d71e84c050892a49a0ccc98f6b5705f
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_73.unity
+    guid: 8f8ffc1e50f6c6d448300273996f7f91
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_74.unity
+    guid: 4c280e7a27f750344bdd4b61170ee0bf
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_75.unity
+    guid: 16987c7967f73ea4e9a37d2db0027c5a
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_76.unity
+    guid: 184aad32ae20d084ea88fe48c6b00637
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_77.unity
+    guid: 6cee0dc61f89fbd49959b7dfaf4edfdf
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_78.unity
+    guid: 5929ef99b20816548a5965e64e17685a
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_79.unity
+    guid: 7614510d6dee41147b7bf7f1de87fc07
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Classic Levels/Classic_80.unity
+    guid: 22e1af23bc07f7a4ca43ca4e8e76b838
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_1.unity
+    guid: 459929f7a17c5cb44b7a12dfa321dcf3
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_2.unity
+    guid: 8dd99d07b7b9c6743bb9a8ada2f48e09
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_3.unity
+    guid: e55ed9783fa6d16468c8e87594a296f2
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_4.unity
+    guid: ab592db78396d254c97170c7d2f1f56d
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_5.unity
+    guid: 3a731362fc070744099052a1f9befc50
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_6.unity
+    guid: 760e10234108a6a469c87f8f5652f07d
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_7.unity
+    guid: c536e81c01c7f8f43aceaa72c9c20b0d
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_8.unity
+    guid: f7568b6464db9a54bb8fe0074390cdad
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_9.unity
+    guid: 67f34fa7fc7e2044f8bb55e828cb0f43
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_10.unity
+    guid: 2c4cf1b18b5a1114bbaf8fba4d615332
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_11.unity
+    guid: 2ee39a62d663d564f8290bfe008f8888
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_12.unity
+    guid: 329238887d7264746b2e4079eebc6f8e
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_13.unity
+    guid: 982d7b87af38aa74fac24851a6f9faac
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_14.unity
+    guid: 28c1a4a1a9fd52444b4824b852a969d1
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_15.unity
+    guid: 0e5006f3680cda04d825fffc84afd551
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_16.unity
+    guid: 4500402d3af59c64886344a7b89a3dee
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_17.unity
+    guid: 8e946405477e4af408ed52b37a2b6845
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_18.unity
+    guid: 383477535f330e34cad9f6c1411d280d
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_19.unity
+    guid: ea13bdccc205d2b408d19aacc01ecf9e
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_20.unity
+    guid: adc91d999cc8762448f807ab7571d68f
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_21.unity
+    guid: 5d7d5a51e1b798d43848d8b7ae30e0ab
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_22.unity
+    guid: e18b588ed1a932c4b888189d771c0f7d
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_23.unity
+    guid: 147474708bf203248bfeac44b6bff32a
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_24.unity
+    guid: 6bf081d373906f94bbbdeb335e633809
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_25.unity
+    guid: 2485443a4bb570d4998f971d1367b079
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_26.unity
+    guid: 32f0ba626d7f4be4ca7f2666afe16238
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_27.unity
+    guid: f52b86024e3e23d4bb045af48766b811
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_28.unity
+    guid: 5057d514d67d12043aa2ff7c61abc2d9
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_29.unity
+    guid: 5d2f66c6ac802ca479d067df86f6953e
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_30.unity
+    guid: 91322babb4109f140860a3423a6266d6
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_31.unity
+    guid: 411fad77f88b81e478824b3ef201d3c2
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_32.unity
+    guid: 9deae6a42b98e9c4b9ebc6675551c03f
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_33.unity
+    guid: 147758ee12046b04c94327b7282c3fd5
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_34.unity
+    guid: 2620321545a3ef44990f592e9232336f
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_35.unity
+    guid: d77e27023470c744e879a65c115c49c6
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_36.unity
+    guid: d508d688b8207cf46998723bd709b5ac
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_37.unity
+    guid: dd386c00e9262db4f9e70d72d5d40bbf
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_38.unity
+    guid: ef3e1ec785f8f1e4c9af34cca51f7c7f
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_39.unity
+    guid: a599c450d50176248b1e252879a2bdbd
+  - enabled: 1
+    path: Assets/Scenes/Final Build/Casual Levels/Casual_40.unity
+    guid: f6f9c3e02c450e54b8a3c4c27be50a80
+  m_configObjects: {}
